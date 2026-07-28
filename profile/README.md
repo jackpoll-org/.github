@@ -38,12 +38,12 @@ MIT, across all repos above.
 
 ---
 
+<p align="center">Powered by</p>
 <p align="center">
-  Powered by
   <a href="https://quavon.de">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/quavon-banner-dark.svg">
-      <img src="assets/quavon-banner-light.svg" alt="Quavon" height="28" />
+      <img src="assets/quavon-banner-light.svg" alt="Quavon" width="400" />
     </picture>
   </a>
 </p>
