@@ -23,7 +23,6 @@
 |---|---|
 | [jackpoll](https://github.com/jackpoll-org/jackpoll) | The app monorepo — Next.js/Capacitor frontend (web, iOS, Android) and the Quarkus REST API backend. |
 | [jackpoll-selfhost](https://github.com/jackpoll-org/jackpoll-selfhost) | Docker Compose / Swarm stacks, env templates, and the Keycloak realm for running your own instance. No application source — pulls the published images. |
-| [jackpoll-landing](https://github.com/jackpoll-org/jackpoll-landing) | The marketing site at jackpoll.org, including the open-source Supporters page. |
 
 ## Tech stack
 
@@ -36,3 +35,15 @@ MIT, across all repos above.
 ## Contact
 
 [contact@jackpoll.org](mailto:contact@jackpoll.org)
+
+---
+
+<p align="center">
+  Powered by
+  <a href="https://quavon.de">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/quavon-banner-dark.svg">
+      <img src="assets/quavon-banner-light.svg" alt="Quavon" height="28" />
+    </picture>
+  </a>
+</p>
